@@ -1,0 +1,23 @@
+{
+  "name": "portal_noticias",
+  "version": "1.0.0",
+  "description": "Site de Noticias",
+  "main": "noticias.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demismeneghetti/curso_node.git"
+  },
+  "author": "Demis Meneghetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demismeneghetti/curso_node/issues"
+  },
+  "homepage": "https://github.com/demismeneghetti/curso_node#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
